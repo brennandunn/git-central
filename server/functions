@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Sets: new_commits
 # Assumes: $oldrev $newrev $refname
